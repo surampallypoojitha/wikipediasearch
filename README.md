@@ -20,11 +20,12 @@ The application focuses on simplicity, speed, and usability, making it ideal for
 🧹 Automatically clears old results on new search
 
 🧱 Project Structure
-wikipedia-search-app/
-  index.html     # Structure of the web page
-  styles.css     # Styling and layout
-  script.js      # Application logic and API handling
-  README.md      # Project documentation
+wikipedia-search-app    
+
+  index.html(Structure of the web page)
+  styles.css(Styling and layout)
+  script.js(Application logic and API handling)
+  README.md(Project documentation)
 
 🧠 How the Application Works
 1️⃣ User Input
